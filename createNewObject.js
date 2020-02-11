@@ -1,6 +1,8 @@
 /**
  * Create new object.
  * 
+ * Illustrates how `new` operator works.
+ * 
  * @example `createNewObject(MyConstructor, arg1, arg2)` // same as `new MyConstructor(atg1, arg2);`
  */
 const createNewObject = (constructor, ...args) => {
